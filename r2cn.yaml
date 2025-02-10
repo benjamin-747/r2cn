@@ -27,3 +27,8 @@ repos:
       - id: "fleeto"
         task: 3
         maxScore: 20
+  - name: "benjamin-747/r2cn-bot-test"
+    maintainers:
+      - id: "benjamin-747"
+        task: 10
+        maxScore: 30
