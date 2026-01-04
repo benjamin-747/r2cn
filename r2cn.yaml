@@ -1,85 +1,90 @@
 repos:
-  - name: "web3infra-foundation/mega"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 80
-  - name: "web3infra-foundation/libra"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "web3infra-foundation/git-internal"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "web3infra-foundation/kinko"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "buck2hub/cargo-buckal"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "buck2hub/buckal-bundles"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "buck2hub/qlean"
-    maintainers:
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-      - id: "genedna"
-        task: 20
-        maxScore: 120
-  - name: "rk8s-dev/rk8s"
-    maintainers:
-      - id: "genedna"
-        task: 40
-        maxScore: 120
-      - id: "benjamin-747"
-        task: 20
-        maxScore: 120
-  - name: "TuGraph-family/miniGU"
-    maintainers:
-      - id: "qishipengqsp"
-        task: 10
-        maxScore: 60
-  - name: "rustfs/rustfs"
-    maintainers:
-      - id: "loverustfs"
-        task: 5
-        maxScore: 60
-  - name: "genmeta/gm-quic"
-    maintainers:
-      - id: "huster-zhangpeng"
-        task: 3
-        maxScore: 30
-  - name: "r2cn-dev/r2cn-mentor-link"
-    maintainers:
-      - id: "benjamin-747"
-        task: 3
-        maxScore: 40
+- name: "web3infra-foundation/mega"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 80
+- name: "web3infra-foundation/libra"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "web3infra-foundation/git-internal"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "web3infra-foundation/kinko"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "buck2hub/cargo-buckal"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "buck2hub/buckal-bundles"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "buck2hub/qlean"
+  maintainers:
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+  - id: "genedna"
+    task: 20
+    maxScore: 120
+- name: "rk8s-dev/rk8s"
+  maintainers:
+  - id: "genedna"
+    task: 40
+    maxScore: 120
+  - id: "benjamin-747"
+    task: 20
+    maxScore: 120
+- name: "TuGraph-family/miniGU"
+  maintainers:
+  - id: "qishipengqsp"
+    task: 10
+    maxScore: 60
+- name: "rustfs/rustfs"
+  maintainers:
+  - id: "loverustfs"
+    task: 5
+    maxScore: 60
+- name: "genmeta/gm-quic"
+  maintainers:
+  - id: "huster-zhangpeng"
+    task: 3
+    maxScore: 30
+- name: "r2cn-dev/r2cn-mentor-link"
+  maintainers:
+  - id: "benjamin-747"
+    task: 3
+    maxScore: 40
+- name: "benjamin-747/r2cn-bot-test"
+  maintainers:
+  - id: "benjamin-747"
+    task: 3
+    maxScore: 40
